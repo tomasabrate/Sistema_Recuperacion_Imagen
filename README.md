@@ -1,6 +1,6 @@
 # Sistema de Recuperación Semántica de Imágenes (CBIR)
 
-[![Kaggle](https://www.kaggle.com/code/tomasabrate/sistema-recuperacion-semantica-imagenes)]
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/tu-usuario/tu-repo/blob/main/notebooks/Sistema_Recuperacion_Semantica_Imagenes.ipynb)
 
 ## Resumen del Proyecto
 
