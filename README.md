@@ -1,7 +1,6 @@
 # Sistema de Recuperación Semántica de Imágenes (CBIR)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/tu-repo/blob/main/notebooks/Sistema_Recuperacion_Semantica_Imagenes.ipynb)
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/tu-usuario/tu-repo/blob/main/notebooks/Sistema_Recuperacion_Semantica_Imagenes.ipynb)
+[![Kaggle](https://www.kaggle.com/code/tomasabrate/sistema-recuperacion-semantica-imagenes)]
 
 ## Resumen del Proyecto
 
