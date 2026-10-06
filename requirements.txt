@@ -1,0 +1,16 @@
+open_clip_torch
+transformers
+faiss-cpu
+bitsandbytes
+accelerate
+umap-learn
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+opencv-python
+scikit-learn
+torch
+torchvision
+pillow

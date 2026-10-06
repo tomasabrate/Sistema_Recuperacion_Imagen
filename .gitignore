@@ -1,0 +1,25 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Datos e índices grandes (NO SUBIR A GIT)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.npy
+*.bin
+*.csv
+
+# Específicos del SO
+.DS_Store
+Thumbs.db
